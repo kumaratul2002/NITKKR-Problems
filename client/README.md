@@ -1,0 +1,1 @@
+use npm run start for running both frontend and backend.
